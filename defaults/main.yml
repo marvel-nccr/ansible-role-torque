@@ -1,0 +1,2 @@
+torque_hostname: localhost
+torque_cpus: 2
