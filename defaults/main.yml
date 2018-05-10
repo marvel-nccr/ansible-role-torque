@@ -1,2 +1,4 @@
 torque_hostname: localhost
 torque_cpus: 2
+
+root_user: root
