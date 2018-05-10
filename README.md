@@ -1,6 +1,6 @@
 # Ansible Role: marvel-nccr.torque
 
-An ansible role that installs [Torque](http://www.adaptivecomputing.com/products/open-source/torque/) on Ubuntu.
+An ansible role that installs the [Torque](http://www.adaptivecomputing.com/products/open-source/torque/) scheduler on Ubuntu.
 
 ## Installation
 
@@ -8,7 +8,7 @@ An ansible role that installs [Torque](http://www.adaptivecomputing.com/products
 
 ## Role Variables
 
-See `defaults/main.yml`
+See `defaults/main.yml`.
 
 ## Example Playbook
 
